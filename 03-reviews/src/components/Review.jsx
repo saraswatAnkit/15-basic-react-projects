@@ -35,10 +35,10 @@ const Review = () => {
     }
 
   return (
-    <article className='flex flex-col shadow-2xl bg-white rounded-md items-center justify-center max-w-[80vw] md:h-[57vh] lg:w-[45vw] gap-4 px-5 py-3'>
+    <article className='flex flex-col shadow-2xl bg-white rounded-md items-center justify-center max-w-[80vw] lg:h-[67vh] lg:w-[45vw] gap-4 px-5 py-3'>
         <div className='h-[12rem] w-[12rem] relative pt-4'>
             <div className='w-[10.2rem] h-[10.2rem] absolute bg-blue-500 rounded-full ml-3 top-3 mb-1'></div>
-            <img src={image} alt={name} className='sm:h-[10.3rem] sm:w-[10.3rem] rounded-full object-cover absolute top-4' />
+            <img src={image} alt={name} className='sm:h-[10.3rem] sm:w-[10.3rem] rounded-full object-cover absolute top-4 max-sm:h-[10.3rem] max-sm:w-[10.3rem]' />
             <span className='bg-blue-500 absolute h-10 w-10 flex items-center justify-center rounded-full left-1 top-6 text-white font-extrabold text-[1.4rem]'>
                 <FaQuoteRight />
             </span>
