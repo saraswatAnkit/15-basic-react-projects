@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "title": "shahi paneer aur naan",
+        "category": "dinner",
+        "price": 250,
+        "img": "https://tse1.mm.bing.net/th?id=OIP.fIfOTLnSc55fIz953GQejwHaE6&pid=Api&P=0&h=180",
+        "desc": "I'm panner exotig flavour of different spices with fresh bread stuffed with butter known as naan."
+    },
+    {
+        "id": 2,
+        "title": "buttermilk pancakes",
+        "category": "breakfast",
+        "price": 150,
+        "img": "https://krollskorner.com/wp-content/uploads/2017/01/buttermilkpan1.jpg",
+        "desc": "I'm baby woke mlkshake wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed."
+    },
+    {
+        "id": 3,
+        "title": "diner double",
+        "category": "lunch",
+        "price": 350,
+        "img": "https://tse3.mm.bing.net/th?id=OIP.-zteNLTbmlO9_1nvoR2m3AHaE7&pid=Api&P=0&h=180",
+        "desc": "vaporware iPhone mumblecore selvage raw denim slow-carb leggings gochujang helvetica man braid jianbing. Marfa thundercats."
+    },
+    {
+        "id": 4,
+        "title": "country delight",
+        "category": "breakfast",
+        "price": 250,
+        "img": "https://thefoodietravels.com/wp-content/uploads/2023/05/Exploring-Culin-0.jpg",
+        "desc": "Shabby chic keffiyeh neutra snackwave pork belly shoreditch. Prism austin mlkshk truffaut."
+    },
+    {
+        "id": 5,
+        "title": "godzilla milkshake",
+        "category": "shakes",
+        "price": 250,
+        "img": "https://i2-prod.glasgowlive.co.uk/incoming/article16335485.ece/ALTERNATES/s615b/0_DSC_5315.jpg",
+        "desc": "ombucha chillwave fanny pack 3 wolf moon street art photo booth before they sold out organic viral."
+    },
+    {
+        "id": 6,
+        "title": "pav bhaji",
+        "category": "dinner",
+        "price": 150,
+        "img": "https://tse4.mm.bing.net/th?id=OIP.clahhTxUYzeAVpmIJ1jfZQHaE5&pid=Api&P=0&h=180",
+        "desc": "ombucha chillwave fanny pack 3 wolf moon street art photo booth before they sold out organic viral."
+    },
+    {
+        "id": 7,
+        "title": "chole bhature",
+        "category": "dinner",
+        "price": 250,
+        "img": "https://2.bp.blogspot.com/-OU_L_dlS_G0/Wx9rVpMKeVI/AAAAAAAAAEE/lL6pyCPBVoQkBxbpYZg9wRt6-Lce51C7ACLcBGAs/s1600/imperial%2Binn.jpg",
+        "desc": "ombucha chillwave fanny pack 3 wolf moon street art photo booth before they sold out organic viral."
+    },
+    {
+        "id": 8,
+        "title": "quarantine buddy",
+        "category": "breakfast",
+        "price": 450,
+        "img": "https://theweekendedition.com.au/wp-content/uploads/2017/07/TWE-Chocolate-01-1100x550-c-center.jpg",
+        "desc": "skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing."
+    },
+    {
+       "id": 9,
+        "title": "american classic",
+        "category": "lunch",
+        "price": 350,
+        "img": "https://cdn.tasteatlas.com/Images/Dishes/f680f84957414ec1b8d7def52e988594.jpg?w=905&h=510",
+        "desc": "on it tumblr kickstarter thundercats migas everyday carry squid palo santo leggings. Food truck truffaut." 
+    },
+    {
+       "id": 10,
+        "title": "armando chocolate",
+        "category": "shakes",
+        "price": 150,
+        "img": "https://www.modernhoney.com/wp-content/uploads/2022/08/Chocolate-Almond-Butter-Smoothie-Protein-Shake-1-scaled.jpg",
+        "desc": "on it tumblr kickstarter thundercats migas everyday carry squid palo santo leggings. Food truck truffaut." 
+    }
+]
